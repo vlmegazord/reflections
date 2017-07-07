@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area is located between the wd and the repo. Pretty much like an additional security layer. 
