@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I didn't have to focus on the entire text of both files, as those plus/minus signs indicated the changes only, so my attention was only focused on the changes.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    First, I won't necessarily be a programmer, but I believe it doesn't matter. Thing is, we're human, we're not perfect, and we can make a mistake or even a lot of them. In this case, it can make sense to get back to an older version that has less of that mess.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    It's more logical for me to save like this, because you've can arrange it logically, and you can save the versions of the documents with significant changes. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Those system have different purpose in mind. For Google Docs it's about storing documents, and usually those documents are independent of each other. 
+    For git, it's about long-term management of code base, where files have dependencies and have to be managed together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I'd say it would be easier with those commands to update the code base, because you dopn't have to look for a needle in a stack of hay.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Basically, if you know you can return to a previous version that is guaranteed to work, there is an incentive to try new things. No risk in this case. You simply revert to a version that's guaranteed to work and that's all.
+    
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Difficult to say. I have a tutorial to do, and I wanna go hard on it. But then, I'm definitely gonna use it for my real project
+
