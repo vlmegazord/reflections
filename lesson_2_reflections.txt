@@ -1,2 +1,13 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Staging area is located between the wd and the repo. Pretty much like an additional security layer. 
+
+How can you use the staging area to make sure you have one commit per logical change? 
+	Yup, that's what I meaned when I wrote about the additional security layer. But still unclear a lil' bit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Yes. experimental features, but also features that are not guaranteed to work.
+	Also, you can do branches per each significant feature, so you can switch when you work 
+
+How do the diagrams help you visualize the branch structure?
+	One picture is better than 1000 words (an old Chinese proverb). Generally visual aides have a lot of advantages over textual ones, so I won't go in depth here. 
+
